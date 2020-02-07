@@ -11,6 +11,8 @@ REACT_APP_API_KEY=whateverkey
 
 You can get that here: https://developers.giphy.com/
 
+or add your key manually to the paths.ts file.
+
 ## Available Scripts
 
 In the project directory, you can run:
