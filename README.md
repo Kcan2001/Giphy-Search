@@ -6,6 +6,11 @@ This site was built using typescript, react-hooks, and custom built middleware t
 
 ![Enjoy](https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif)
 
+Make sure to add a .env file containing your Giphy API key, as such:
+REACT_APP_API_KEY=whateverkey
+
+You can get that here: https://developers.giphy.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
